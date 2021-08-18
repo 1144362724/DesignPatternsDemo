@@ -6,6 +6,6 @@ package com.company.interceptingFilter_what.core;
  */
 public class Target {
     public void execute(String request){
-        System.out.println("Executing request: " + request);
+        System.out.println("执行请求: " + request);
     }
 }

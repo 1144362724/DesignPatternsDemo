@@ -1,6 +1,7 @@
 package com.company.结构型.adapterMode.core;
 
 /**
+ * 先进的媒体播放器
  * @author MGARY
  * @date 2019-11-27 上午11:12
  */

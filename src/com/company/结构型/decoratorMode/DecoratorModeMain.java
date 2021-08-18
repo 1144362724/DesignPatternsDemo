@@ -27,7 +27,7 @@ public class DecoratorModeMain {
         //ShapeDecorator redCircle = new RedShapeDecorator(new Circle());
         //ShapeDecorator redRectangle = new RedShapeDecorator(new Rectangle());
         Shape redCircle = new RedShapeDecorator(new Circle());
-        Shape redRectangle = new RedShapeDecorator(new Rectangle());
+        Shape redRectangle = new RedShapeDecorator(redCircle);
         System.out.println("Circle with normal border");
         circle.draw();
 

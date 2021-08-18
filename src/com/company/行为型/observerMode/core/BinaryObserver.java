@@ -1,6 +1,8 @@
 package com.company.行为型.observerMode.core;
 
 /**
+ * 二进制观察者
+ *
  * @author MGARY
  * @date 2019-11-28 下午5:17
  */
